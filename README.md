@@ -11,9 +11,6 @@ Nesse desafio você deverá testar de forma automatizada o site Luma Store. O pr
 - Considere como prazo limite da avaliação o período a partir do início do teste. Se, por algum motivo, não for possível concluir dentro deste prazo, avise a pessoa que o convidou para receber instruções sobre o que fazer.
 - Documente todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes quanto o seu processo de pensamento e decisões à medida que as completa, por isso, tente documentar e apresentar as suas hipóteses e decisões na medida do possível.
 
-### Instruções iniciais obrigatórias
-
-- Utilize as seguintes tecnologias:
 
 #### Tecnologias:
 - Ferramenta: Ghost Inspector, Selenium, Cypress, Robot Framework, ou outro de seu conhecimento
