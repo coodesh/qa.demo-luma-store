@@ -8,8 +8,8 @@ Nesse desafio você deverá testar de forma automatizada o site Luma Store. O pr
 
 ### Antes de começar
  
-- Considere como deadline da avaliação a partir do início do teste. Caso tenha sido convidado a realizar o teste e não seja possível concluir dentro deste período, avise a pessoa que o convidou para receber instruções sobre o que fazer.
-- Documentar todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
+- Considere como prazo limite da avaliação o período a partir do início do teste. Se, por algum motivo, não for possível concluir dentro deste prazo, avise a pessoa que o convidou para receber instruções sobre o que fazer.
+- Documente todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes quanto o seu processo de pensamento e decisões à medida que as completa, por isso, tente documentar e apresentar as suas hipóteses e decisões na medida do possível.
 
 ### Instruções iniciais obrigatórias
 
