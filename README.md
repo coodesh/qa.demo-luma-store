@@ -18,7 +18,7 @@ Nesse desafio você deverá testar de forma automatizada o site Luma Store. O pr
 
 ## Teste
 
-Neste desafio aplicaremos os conceitos de teste caixa preta, onde testaremos a página https://magento.softwaretestingboard.com , https://demo.hyva.io/ ou https://osc-ultimate-demo.mageplaza.com
+Neste desafio aplicaremos os conceitos de teste caixa preta, onde testaremos a página https://magento.softwaretestingboard.com , https://demo.hyva.io/ ou https://osc-ultimate-demo.mageplaza.com . Escolha um destes sites e realize o teste. Todos estes sites possuem o mesmo catálogo de exemplo, podendo ou não serem diferentes visualmente.
 
 > Nota: utilize dados fictícios criados através do site https://randomuser.me
 
